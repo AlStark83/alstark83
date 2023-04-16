@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB & Typescript**
 
-- 👨‍💻 All of my projects are available at [albertio.guerrero.site](albertio.guerrero.site)
+- 👨‍💻 All of my projects are available at [albertoguerrero.site](albertoguerrero.site)
 
 - 💬 Ask me about **Typescript, React, NodeJS, Express**
 
